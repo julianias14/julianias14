@@ -6,7 +6,7 @@ I am a Lead TA for the Data Structures course at Rutgers and write autograders t
 
 My main tech stack is: Java, Python, Javascript.
 
-Outside of my studies and work, I love to read, write, and draw digitally.
+Outside of my studies and work, I love to read, write, and draw digitally. I also love coffee shop hopping. :)
 
 
 
