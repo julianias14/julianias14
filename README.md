@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello!🦦
+
+My name is Juliania, and I am an aspiring software developer & undergraduate CS and Cog Sci student at Rutgers University!
+
+I am a Lead TA for the Data Structures course at Rutgers and write autograders to automatically grade 750+ submissions each semester as well as manage Autolab. I've also built assignments and labs that were used in the Rutgers CS111 and CS112 courses! The assignments are posted here, but unfortunately I am unable to provide solutions in order to avoid leaking them online.
+
+
 
 <!--
 **julianias14/julianias14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
