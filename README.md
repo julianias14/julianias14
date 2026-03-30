@@ -4,6 +4,8 @@ My name is Juliania, and I am an aspiring software developer & undergraduate CS 
 
 I am a Lead TA for the Data Structures course at Rutgers and write autograders to automatically grade 750+ submissions each semester as well as manage Autolab. I've also built assignments and labs that were used in the Rutgers CS111 and CS112 courses!
 
+My main tech stack is: Java, Python, Javascript.
+
 Outside of my studies and work, I love to read, write, and draw digitally.
 
 
