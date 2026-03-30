@@ -7,7 +7,7 @@ I am a Lead TA for the Data Structures course at Rutgers and write autograders t
 Responsibilities & Skills as Lead TA:
 * Designed and maintained Java-based autograders handling **10,000+ student submissions per semester**.
 * Developed test cases to validate student code against reference implementations.
-  * Created robust validation methods that check:
+* Created robust validation methods that check:
   * Correctness of tree and list structures
   * Edge-case handling
 * Implemented automated feedback and reporting for students:
