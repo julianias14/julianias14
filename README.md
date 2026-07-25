@@ -34,7 +34,7 @@ A recursion-based maze assignment inspired by the classic game, where students i
 
 - **Email:** js3693@scarletmail.rutgers.edu
 - **GitHub:** [github.com/julianias14](https://github.com/julianias14)
-- **LinkedIn:** [linkedin.com/juliania-s](linkedin.com/in/juliania-shyprykevych/)
+- **LinkedIn:** [linkedin.com/juliania-s](https://www.linkedin.com/in/juliania-shyprykevych/)
 
 ---
 
