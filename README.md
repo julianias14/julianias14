@@ -1,33 +1,43 @@
-## Hello!🦦
+👋 Hi, I'm Juliania! 🦦
 
-My name is Juliania, and I am an aspiring software developer & undergraduate CS and Cog Sci student at Rutgers University!
+🎓 Junior at Rutgers University — New Brunswick, studying Computer Science & Cognitive Science
+Aspiring Software Developer with an interest in Machine Learning
 
-I am a Lead TA for the Data Structures course at Rutgers and write autograders to automatically grade 750+ submissions each semester as well as manage Autolab. I've also built assignments and labs that were used in the Rutgers CS111 and CS112 courses!
+I'm passionate about building software that makes a difference for people. I've worked as a Java and JavaScript developer, and I'm currently building a machine learning research project that estimates water quality levels from smartphone photos, aimed at making water testing more accessible for rural communities.
 
-Responsibilities & Skills as Lead TA:
-* Designed and maintained Java-based autograders handling **10,000+ student submissions per semester**.
-* Developed test cases to validate student code against reference implementations and check for edge cases.
-* Implemented automated feedback and reporting for students:
-  * Highlights specific failing conditions in their code
-  * Provides hints without revealing solutions
+I'm always looking to grow my skills. I'm currently seeking Software Engineering or Machine Learning internships for Summer 2027. If you have any leads, let me know!
 
-My main tech stack is: Java, Python, Javascript.
+### 🚀 Projects
 
-Outside of my studies and work, I love to read, write, and draw digitally. I also love coffee shop hopping. :)
+A couple of projects I've built and enjoyed working on:
 
+**1. [Lightsaber Lost](#) — Searching & Sorting Assignment**
+A Star Wars–themed CS assignment where students rebuild a corrupted archive and use insertion sort and binary search to track down the owner of a lost lightsaber. Includes a full Java Swing GUI that visualizes each step.
+- **Tech Stack:** Java, Java Swing, Iterative Searching/Sorting
+- **Learnings:** Algorithm design, GUI development, building tools for teaching
 
+**2. [Fireboy and Watergirl](#) — Recursion Assignment**
+A recursion-based maze assignment inspired by the classic game, where students implement recursive backtracking so two characters can each find a safe path to the exit.
+- **Tech Stack:** Java, Recursion & Backtracking, 2D Arrays
+- **Learnings:** Recursive problem-solving, designing assignments that are both fun and pedagogically clear
 
-<!--
-**julianias14/julianias14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, Python, JavaScript
+- **Other Interests:** Machine Learning, Data Analysis
+
+---
+
+### 📫 How to Reach Me
+
+- **Email:** js3693@scarletmail.rutgers.edu
+- **GitHub:** [github.com/julianias14](https://github.com/julianias14)
+- **LinkedIn:** [linkedin.com/juliania-s](linkedin.com/in/juliania-shyprykevych/)
+
+---
+
+### ✨ Fun Fact
+
+Outside of class and coding, I love reading, birdwatching, and coffee shop hopping. :)
