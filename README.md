@@ -44,7 +44,6 @@ A recursion-based maze assignment inspired by the classic game, where students i
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Tools
 
@@ -53,7 +52,7 @@ A recursion-based maze assignment inspired by the classic game, where students i
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 
 - **Email:** js3693@scarletmail.rutgers.edu
 - **GitHub:** [github.com/julianias14](https://github.com/julianias14)
@@ -61,6 +60,6 @@ A recursion-based maze assignment inspired by the classic game, where students i
 
 ---
 
-### ✨ Fun Fact
+### Fun Fact
 
 Outside of class and coding, I love reading, birdwatching, and coffee shop hopping. :)
