@@ -14,12 +14,12 @@ A couple of projects I've built and enjoyed working on:
 **1. [Lightsaber Lost](https://github.com/julianias14/LightsaberLostPublic) — Searching & Sorting Assignment**
 A Star Wars–themed CS assignment where students rebuild a corrupted archive and use insertion sort and binary search to track down the owner of a lost lightsaber. Includes a full Java Swing GUI that visualizes each step.
 - **Tech Stack:** Java, Java Swing, Iterative Searching/Sorting
-- **Learnings:** Algorithm design, GUI development, building tools for teaching
+- **Concepts:** Algorithm design, GUI development, building tools for teaching
 
 **2. [Fireboy and Watergirl](https://github.com/julianias14/FireboyAndWatergirlPublic) — Recursion Assignment**
 A recursion-based maze assignment inspired by the classic game, where students implement recursive backtracking so two characters can each find a safe path to the exit.
 - **Tech Stack:** Java, Recursion & Backtracking, 2D Arrays
-- **Learnings:** Recursive problem-solving, designing assignments that are both fun and pedagogically clear
+- **Concepts:** Recursive problem-solving, designing assignments that are both fun and pedagogically clear
 
 ---
 
