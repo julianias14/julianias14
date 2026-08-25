@@ -16,16 +16,10 @@ A Star Wars–themed CS assignment where students rebuild a corrupted archive an
 - **Tech Stack:** Java, Java Swing, Iterative Searching/Sorting
 - **Concepts:** Algorithm design, GUI development, building tools for teaching
 
-**2. [Pixel Paws](https://github.com/julianias14/pixel-paws) — CS Tamagotchi × Duolingo App**
-A gamified coding practice app where a hand-drawn pixel cat grows up alongside your progress. Answer HTML, Python, and Java questions to level up and watch your pet evolve from a kitten to adult in a Tamagotchi-style.
-
-- **Tech Stack:** JavaScript (ES Modules), Firebase (Auth, Firestore, Storage), HTML/CSS, Vercel
-- **Concepts:** Authentication flows, client-side state management, gamification design, pixel art asset integration
-
-**3. [Fireboy and Watergirl](https://github.com/julianias14/FireboyAndWatergirlPublic) — Recursion Assignment**  
-A recursion-based maze assignment inspired by the classic game, where students implement recursive backtracking so two characters can each find a safe path to the exit.
-- **Tech Stack:** Java, Recursion & Backtracking, 2D Arrays
-- **Concepts:** Recursive problem-solving, designing assignments that are both fun and pedagogically clear
+**2. [Census Income Classifier](https://github.com/julianias14/census-income-classifier) — **Capstone Project**
+A supervised learning project predicting whether an individual's income exceeds $50,000 using 1994 U.S. Census demographic data, comparing a logistic regression model against a feedforward neural network across accuracy and F1 score.
+- **Tech Stack:** Python, Pandas, scikit-learn, Keras, Matplotlib, Seaborn
+- **Concepts:** Binary classification, hyperparameter tuning (grid search), neural network architecture, feature engineering, data leakage prevention, model interpretability, algorithmic fairness
 
 ---
 
