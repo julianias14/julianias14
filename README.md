@@ -3,6 +3,8 @@
 Third-year undergraduate student at Rutgers University — New Brunswick, studying Computer Science & Cognitive Science
 Aspiring Software Developer with an interest in Machine Learning
 
+> **Portfolio: [julianias.com](julianias.com)**
+
 I'm passionate about building software that makes a difference for people. I've worked as a Java and JavaScript developer, and I'm currently building a machine learning research project that estimates water quality levels from smartphone photos, aimed at making water testing more accessible for rural communities.
 
 I'm always looking to grow my skills. I'm currently seeking Software Engineering or Machine Learning internships for Summer 2027. If you have any leads, let me know!
@@ -11,16 +13,17 @@ I'm always looking to grow my skills. I'm currently seeking Software Engineering
 
 A couple of projects I've built and enjoyed working on:
 
-**1. [Lightsaber Lost](https://github.com/julianias14/LightsaberLostPublic) — Searching & Sorting Assignment**  
-A Star Wars–themed CS assignment where students rebuild a corrupted archive and use insertion sort and binary search to track down the owner of a lost lightsaber. Includes a full Java Swing GUI that visualizes each step.
-- **Tech Stack:** Java, Java Swing, Iterative Searching/Sorting
-- **Concepts:** Algorithm design, GUI development, building tools for teaching
-
-**2. [Census Income Classifier](https://github.com/julianias14/census-income-classifier) — Capstone Project**
+**1. [Census Income Classifier](https://github.com/julianias14/census-income-classifier) — Machine Learning Capstone Project**
 
 A supervised learning project predicting whether an individual's income exceeds $50,000 using 1994 U.S. Census demographic data, comparing a logistic regression model against a feedforward neural network across accuracy and F1 score.
 - **Tech Stack:** Python, Pandas, scikit-learn, Keras, Matplotlib, Seaborn
 - **Concepts:** Binary classification, hyperparameter tuning (grid search), neural network architecture, feature engineering, data leakage prevention, model interpretability, algorithmic fairness
+
+**2. [Lightsaber Lost](https://github.com/julianias14/LightsaberLostPublic) — Searching & Sorting Assignment**  
+
+A Star Wars–themed CS assignment where students rebuild a corrupted archive and use insertion sort and binary search to track down the owner of a lost lightsaber. Includes a full Java Swing GUI that visualizes each step.
+- **Tech Stack:** Java, Java Swing, Iterative Searching/Sorting
+- **Concepts:** Algorithm design, GUI development, building tools for teaching
 
 ---
 
@@ -60,12 +63,6 @@ A supervised learning project predicting whether an individual's income exceeds 
 - **Email:** js3693@scarletmail.rutgers.edu
 - **GitHub:** [github.com/julianias14](https://github.com/julianias14)
 - **LinkedIn:** [linkedin.com/juliania-s](https://www.linkedin.com/in/juliania-shyprykevych/)
-
----
-
-Check out my portfolio: [julianias.com](julianias.com)
-
----
 
 ### Fun Fact
 
