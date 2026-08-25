@@ -16,7 +16,7 @@ A Star Wars–themed CS assignment where students rebuild a corrupted archive an
 - **Tech Stack:** Java, Java Swing, Iterative Searching/Sorting
 - **Concepts:** Algorithm design, GUI development, building tools for teaching
 
-**2. [Census Income Classifier](https://github.com/julianias14/census-income-classifier) — **Capstone Project**
+**2. [Census Income Classifier](https://github.com/julianias14/census-income-classifier) — Capstone Project**
 A supervised learning project predicting whether an individual's income exceeds $50,000 using 1994 U.S. Census demographic data, comparing a logistic regression model against a feedforward neural network across accuracy and F1 score.
 - **Tech Stack:** Python, Pandas, scikit-learn, Keras, Matplotlib, Seaborn
 - **Concepts:** Binary classification, hyperparameter tuning (grid search), neural network architecture, feature engineering, data leakage prevention, model interpretability, algorithmic fairness
