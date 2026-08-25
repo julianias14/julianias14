@@ -63,6 +63,10 @@ A supervised learning project predicting whether an individual's income exceeds 
 
 ---
 
+Check out my portfolio: [julianias.com](julianias.com)
+
+---
+
 ### Fun Fact
 
 Outside of class and coding, I love reading, birdwatching, and coffee shop hopping. :)
