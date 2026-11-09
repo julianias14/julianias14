@@ -60,7 +60,7 @@ A Star Wars–themed CS assignment where students rebuild a corrupted archive an
 
 ### How to Reach Me
 
-- **Email:** js3693@scarletmail.rutgers.edu
+- **Email:** j.shyprykevych@gmail.com
 - **LinkedIn:** [linkedin.com/juliania-s](https://www.linkedin.com/in/juliania-shyprykevych/)
 
 ### Fun Fact
